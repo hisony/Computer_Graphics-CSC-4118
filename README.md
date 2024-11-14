@@ -1,1 +1,1 @@
-# Computer_Graphics-CSC4118-
+A scenario of a graphical project involving a train arriving from Kamalapur Railstation to Cox’s Bazar. The graphics will showcase the train’s route, key landmarks, and relevant information to enhance user experience and provide insights to the audience. 
